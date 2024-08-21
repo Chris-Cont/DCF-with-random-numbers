@@ -1,3 +1,5 @@
+If you notice any error/suggestion, please do not hesitate to contact christforoscont@gmail.com
+
 **DCF Valuation Model**
 
 DCF calculation random model

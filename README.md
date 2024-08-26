@@ -1,4 +1,4 @@
-If you notice any error/suggestion, please do not hesitate to contact me christforoscont@gmail.com
+If you notice any error/suggestion, please do not hesitate to contact me christoforoscont@gmail.com
 
 **DCF Valuation Model**
 
